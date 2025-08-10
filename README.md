@@ -1,4 +1,4 @@
-# Buy-setup-netcup-vps
+# Buy & setup netcup vps
 Netcup is one of the best vps providers with high performance and cheap servers.
 
 Link:
