@@ -18,13 +18,17 @@ After paying for your server, they'll email you your vps ip and password and scp
 In scp you can manage your vps. Link:
 https://www.servercontrolpanel.de/SCP/
 # client 
-After getting your vps, you need a client to connect to your vps through SSH. Download and use moboxterm or termius 
+After getting your vps, you need a client to connect to your vps through SSH. Download and use moboxterm or termius.
+
 search them in google
 (personally I'm using moboxterm pro cracked version)
 # connect to your vps
 Connect to the vps via Mobaxterm
+
 1- Click session and open SSH tab
+
 2- Enter root@yourIPaddress in remote host
+
 3- Click on OK and then a terminal opens which needs your password, Copy it & Paste it in the terminal by clicking Mouse Middle Scroll Wheel. (Password will be hidden in terminal)
 
 you have successfully connected to your vps.
