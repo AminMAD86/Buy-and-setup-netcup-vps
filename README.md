@@ -1,4 +1,4 @@
-# Buy & setup netcup vps
+# Buy & setup vps from netcup
 Netcup is one of the best vps providers with high performance and cheap servers.
 
 Link:
@@ -18,7 +18,9 @@ After paying for your server, they'll email your vps ip and password and scp log
 In scp you can manage you vps. Link:
 https://www.servercontrolpanel.de/SCP/
 # client 
-After getting your vps, you need a client to connect to your vps through SSH. Download and use moboxterm or termius (personally I'm using moboxterm)
+After getting your vps, you need a client to connect to your vps through SSH. Download and use moboxterm or termius 
+search them in google
+(personally I'm using moboxterm pro cracked version)
 # connect to your vps
 Connect to the vps via Mobaxterm
 1- Click session and open SSH tab
@@ -26,8 +28,8 @@ Connect to the vps via Mobaxterm
 3- Click on OK and then a terminal opens which needs your password, Copy it & Paste it in the terminal by clicking Mouse Middle Scroll Wheel. (Password will be hidden in terminal)
 
 you have successfully connected to your vps.
-# config vps
-You should config your vps. Netcup uses Debian OS and German language for their servers.
+# config your vps
+You should config your vps. Netcup uses Debian OS and German language for their servers. there's not much difference between debian and ubuntu so don't worry 
 
 # change the language to English:
 ```bash
