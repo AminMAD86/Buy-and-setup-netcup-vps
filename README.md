@@ -14,8 +14,8 @@ https://www.customercontrolpanel.de/
 
 *if you are from a restricted country like me and there's no payment option for you, you can get visa card from "paywithmoon" and add funds to it with crypto (Btc and usdt)
 # manage vps
-After paying for your server, they'll email your vps ip and password and scp login credentials. 
-In scp you can manage you vps. Link:
+After paying for your server, they'll email you your vps ip and password and scp login credentials. 
+In scp you can manage your vps. Link:
 https://www.servercontrolpanel.de/SCP/
 # client 
 After getting your vps, you need a client to connect to your vps through SSH. Download and use moboxterm or termius 
