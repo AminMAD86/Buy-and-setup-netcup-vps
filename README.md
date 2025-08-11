@@ -36,6 +36,7 @@ you have successfully connected to your vps.
 You should config your vps. Netcup uses Debian OS and German language for their servers. there's not much difference between debian and ubuntu so don't worry 
 
 # change the language to English:
+If you browse their website in english, your default language on both the control panels and your server will be english. but if your vps language was German, do the steps below:
 ```bash
 sudo dpkg-reconfigure locales
 ```
