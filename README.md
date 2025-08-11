@@ -4,7 +4,7 @@ Netcup is one of the best vps providers with high performance and cheap servers.
 Link:
 https://www.netcup.com/en/
 
-If you wanna both rpc and aztec node on your vps, I suggest "VPS 4000 ARM G11".
+If you wanna run both rpc and aztec node on your vps, I suggest "VPS 4000 ARM G11".
 
 Click on order now, fill the details and confirm your order.
 # Payment
